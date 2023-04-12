@@ -1,10 +1,12 @@
 
 *** Ingredients **
-flour
-yeast 
-tomato sauce
-cheese
-olive oil
+1. Flour
+2. Yeast 
+3. Tomato sauce
+4. Cheese
+5. Olive oil
+
+** Instructions **
 mix flour, water and yeast with pinch of salt
 let it sit and rise for at least 5 hours
 then begin to knead the dough
